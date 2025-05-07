@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/05Atharva/05Atharva/main/banner.png)
+![Header](https://raw.githubusercontent.com/05Atharva/05Atharva/main/Banner1.png)
 
 ### Hi there 👋 I'm Atharva Kanawade
 
