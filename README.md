@@ -114,10 +114,11 @@ Showcasing:
 ---
 
 ## 📈 GitHub Stats
-![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=05Atharva&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=05Atharva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=05Atharva&show_icons=true&theme=radical&cache_seconds=86400" />
 
-![](https://komarev.com/ghpvc/?username=05Atharva&label=Profile+Views)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=05Atharva&layout=compact&cache_seconds=86400" />
+
+<img src="https://komarev.com/ghpvc/?username=05Atharva&label=Profile+Views" />
 
 ---
 
