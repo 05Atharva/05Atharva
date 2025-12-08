@@ -116,11 +116,15 @@ Showcasing:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=05Atharva&show_icons=true&theme=radical&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=05Atharva&show_icons=true&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=05Atharva&layout=compact&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=05Atharva&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?username=05Atharva&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
