@@ -113,23 +113,33 @@ Showcasing:
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity Snapshot
+
+- ✅ Active in Cybersecurity, AI/ML, UAV & Cloud Projects  
+- ✅ Consistent Hands-on Engineering & Research Work  
+- ✅ Focused on Real-World Systems, not toy projects  
+- ✅ Actively building security + autonomous platforms  
+
+---
+
+## 🏅 GitHub Performance Badges
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=05Atharva&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://img.shields.io/github/followers/05Atharva?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/05Atharva?label=Total%20Stars&style=for-the-badge" />
+  <img src="https://img.shields.io/github/repos/05Atharva?label=Public%20Repos&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=05Atharva&layout=compact" />
+  <img src="https://img.shields.io/badge/Primary%20Focus-Cybersecurity-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%2FML-Active-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UAV%20%26%20Robotics-Advanced-red?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?username=05Atharva&theme=tokyonight" width="48%" />
+  <img src="https://komarev.com/ghpvc/?username=05Atharva&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=05Atharva&label=Profile+Views" />
-</p>
 
 
 ---
