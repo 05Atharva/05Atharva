@@ -1,149 +1,108 @@
-![Header](https://raw.githubusercontent.com/05Atharva/05Atharva/main/Banner1.png)
+<div align="center">
+  
+![Banner](https://raw.githubusercontent.com/05Atharva/05Atharva/main/banner_new.png)
 
-# Hi, I'm Atharva Kanawade 👋  
-### Cybersecurity | AI/ML | UAV & Robotics | Cloud Security | Red Team Aspirant  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=55&lines=Software+Engineer+%7C+AI+Systems+%7C+Full-Stack+%7C+Drones)](https://git.io/typing-svg)
 
-🚀 Building **real-world security, AI & autonomous systems** — not just academic projects.  
-🔐 Focused on **offensive security, threat detection, cloud defense & automation**.  
-🚁 Actively working at the intersection of **Cybersecurity × Machine Learning × UAV × Embedded × Cloud**.
+[![Portfolio](https://img.shields.io/badge/Portfolio-64FFDA?style=for-the-badge&logo=vercel&logoColor=0a192f)](https://portfolio-pink-nine-82.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvakanawade)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvakanawade@gmail.com)
+[![IEEE](https://img.shields.io/badge/IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11447964)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://defendthecloud.blogspot.com/)
 
----
-
-## 🧠 Core Domains
-- Cybersecurity & Red Teaming  
-- AI/ML for Security & Computer Vision  
-- Cloud Security & DevSecOps  
-- UAV, FPV & Robotics Systems  
-- Incident Response & Security Automation  
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages**  
-`Python` `C++` `JavaScript` `Bash` `SQL`
-
-**Cybersecurity**  
-`Nmap` `Burp Suite` `Wireshark` `OWASP Top 10`  
-`WAF` `Honeypots` `Incident Response` `Phishing Detection`
-
-**Machine Learning & Vision**  
-`scikit-learn` `TensorFlow` `Keras` `OpenCV`  
-`Naive Bayes` `CNNs` `MobileNetV2` `YOLOv8`
-
-**Cloud & DevOps**  
-`AWS EC2` `Docker` `GitHub Actions` `Flask` `REST APIs`
-
-**Embedded, UAV & IoT**  
-`ESP32` `ESP8266` `Arduino` `CrossFlight FC` `SpeedyBee FC`  
-`Telemetry Systems` `PID Tuning` `Betaflight` `ThingSpeak`
+Building production AI systems, full-stack apps, and racing drones. Currently a **Software Engineer Trainee at [Applied AI Consulting (AAIC)](https://www.appliedaicourse.com/)** — working on multi-agent AI workflows, LLM integrations, and backend systems. **ARTEMIS** published in **IEEE Xplore** at ICEI 2026, PICT Pune. **CCNA Certified**. World Rank 3 in drone racing.
 
 ---
 
-## 🚀 Flagship Engineering Projects
+### 🛠️ Tech Stack
 
-### 🔥 ARTEMIS – Advanced Reactive Threat Elimination & Monitoring System
-- ESP32/ESP8266 based wireless attack detection
-- AWS EC2 honeypot infrastructure for live attack logging
-- ML-based phishing detection (95%+ accuracy)
-- Lightweight WAF for SQLi/XSS protection
-- Real-time alerts, rate limiting & traffic analysis  
-**Tech:** Python, Flask, scikit-learn, AWS, ESP32  
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,flask&theme=dark" /> <br/>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,firebase,aws,docker,git,tensorflow,arduino&theme=dark" />
 
-### 🛡️ ResponseForge – Automated Incident Response Plan Generator
-- React-based tool to generate **NIST SP 800-61 compliant IR plans**
-- Automated PDF generation in under 2 minutes
-- Enterprise simulation tested with 92% relevance score  
-**Tech:** React.js, JavaScript, HTML/CSS  
+</div>
 
 ---
 
-### 🌱 Harvest-Health – AI Crop Monitoring Rover
-- CNN-based crop disease detection (90%+ accuracy)
-- IoT-based real-time data pipeline
-- Live farmer alerts via Twilio SMS  
-**Tech:** TensorFlow, OpenCV, ESP32, ThingSpeak  
+### 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|:--------|:-------------|:------|
+| **[ARTEMIS](https://ieeexplore.ieee.org/document/11447964)** 🔥 | Full-spectrum cybersecurity platform — ML phishing detection, ESP32 wireless defense, AWS honeypots, WAF | Python, Flask, scikit-learn, AWS, ESP32 |
+| **[RagaStream](https://github.com/05Atharva)** 🎵 | Ad-free Indian music streaming app via yt-dlp — zero cloud storage cost | React Native, Supabase, Zustand, yt-dlp |
+| **[PRECURSOR](https://github.com/05Atharva)** 🧬 | Supply chain tracking for precursor chemicals — LSTM anomaly detection + blockchain | React Native, TensorFlow, IoT, Blockchain |
+| **[PinNest](https://github.com/05Atharva)** 📌 | Priority task management with home screen widgets & efficiency dashboard | React Native, Supabase, Redux |
+| **[MatchSense](https://github.com/05Atharva)** 🏏 | Confidence-aware IPL match predictor — knows when to abstain | CatBoost, Python, Pandas |
+| **[ResponseForge](https://github.com/05Atharva)** 🛡️ | NIST SP 800-61 compliant incident response plan generator | React.js, JavaScript |
+
+<details>
+<summary><b>🔬 More Projects</b></summary>
+<br/>
+
+| Project | What it does | Stack |
+|:--------|:-------------|:------|
+| **Cooking App** 🍳 | LLM-powered recipe intelligence — Firebase + Redux + AWS | React Native, LLM APIs, Firebase |
+| **Harvest-Health** 🌱 | CNN crop disease detection rover with IoT data pipeline & SMS alerts | TensorFlow, OpenCV, ESP32, Twilio |
+| **EdgeVision** 👁️ | TinyML electronic component classifier — 99% accuracy, TFLite ready | MobileNetV2, TensorFlow Lite |
+| **Auto QC Classifier** ⚡ | Factory-floor CV system for automated part inspection (.exe deployed) | MobileNetV2, OpenCV, Python |
+| **5" FPV Racing Drone** 🏎️ | Competitive FPV racing platform — SpeedyBee F405 V3 | Betaflight, BLDC, PID Tuning |
+| **3" FPV Racing Drone** 🚁 | Compact indoor FPV system — SpeedyBee Mini FC | Betaflight, PID Tuning |
+| **Autonomous Quadcopter** 📡 | Waypoint-driven delivery UAV with custom telemetry | CrossFlight FC, Embedded |
+
+</details>
 
 ---
 
-### 🚁 Autonomous Quadcopter – Waypoint-Based Delivery UAV
-- Fully autonomous waypoint-driven flight system
-- Custom low-cost telemetry module with real-time link
-- CrossFlight FC integration for precision navigation
-- Optimized for short-range delivery missions  
-**Domains:** Robotics, UAV, Embedded, Mission Control  
+### 🏆 Highlights
+
+<table>
+<tr>
+<td>📄 <b>ARTEMIS</b> published in IEEE Xplore — ICEI 2026, PICT Pune</td>
+<td>🌍 <b>World Rank 3 & AIR 2</b> — Technoxian Drone Racing 2025</td>
+</tr>
+<tr>
+<td>🏅 <b>CCNA Certified</b> — Cisco (May 2025)</td>
+<td>🏆 <b>CTF Champion</b> — NigVanta'25</td>
+</tr>
+<tr>
+<td>🥇 <b>Winner</b> — Innovators Challenge 2k24 (National Hackathon)</td>
+<td>🚀 <b>Finalist</b> — Smart India Hackathon (SIH)</td>
+</tr>
+<tr>
+<td>🔐 <b>Google Cybersecurity Certificate</b></td>
+<td>🏎️ <b>AI-ML Head</b> — Team Vajra UAV, MMCOE</td>
+</tr>
+</table>
 
 ---
 
-### 🏎️ 3-Inch FPV Racing Drone – Indoor Precision Platform
-- Compact FPV system optimized for tight indoor spaces
-- Custom PID tuning for maximum stability & responsiveness
-- Lightweight, power-efficient agile flight design  
-**Tech:** SpeedyBee Mini FC, PID Tuning, Betaflight  
+### 📊 GitHub Stats
+
+<div align="center">
+  
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=05Atharva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&count_private=true" />
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=05Atharva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6&langs_count=6" />
+
+</div>
+
+<div align="center">
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=05Atharva&theme=tokyonight&hide_border=true&background=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda)
+
+</div>
 
 ---
 
-### ⚡ 5-Inch FPV Racing Drone – Competitive Performance Platform
-- High-speed FPV racing drone for competitive environments
-- Aggressive PID optimization for sharp cornering & acceleration
-- SpeedyBee F405 V3 based performance flight stack  
-**Tech:** SpeedyBee F405 V3, BLDC Motors, Betaflight  
+<div align="center">
 
----
+<img src="https://komarev.com/ghpvc/?username=05Atharva&label=Profile+Views&color=64ffda&style=flat-square" />
 
-## 🏆 Achievements
-- 🥇 Winner – Innovators Challenge 2k24 (National Hackathon)
-- 🥇 Winner – Technohunt, Dexterity 2k24
-- 🏆 Winner – Capture The Flag (NigVanta’25)
-- 🌍 World Rank 3 & AIR 2 – Technoxian Drone Racing 2025
-- 🚀 Finalist – Smart India Hackathon (SIH)
+*Building things that ship. Always.*
 
----
-
-## 🌐 Live Portfolio
-🔗 https://portfolio-pink-nine-82.vercel.app/
-
-Showcasing:
-- Cybersecurity Systems
-- AI/ML Solutions
-- UAV & Robotics Builds
-- Cloud-Based Security Tools
-
----
-
-## 📊 GitHub Activity Snapshot
-
-- ✅ Active in Cybersecurity, AI/ML, UAV & Cloud Projects  
-- ✅ Consistent Hands-on Engineering & Research Work  
-- ✅ Focused on Real-World Systems, not toy projects  
-- ✅ Actively building security + autonomous platforms  
-
----
-
-## 🏅 GitHub Performance Badges
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/05Atharva?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/05Atharva?label=Total%20Stars&style=for-the-badge" />
-  <img src="https://img.shields.io/github/repos/05Atharva?label=Public%20Repos&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Primary%20Focus-Cybersecurity-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%2FML-Active-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UAV%20%26%20Robotics-Advanced-red?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=05Atharva&label=Profile+Views&color=blueviolet&style=for-the-badge" />
-</p>
-
-
-
----
-
-## 📬 Connect With Me
-- 🔗 LinkedIn: https://www.linkedin.com/in/atharvakanawade/
-- 📧 Email: atharvakanawade@gmail.com
+</div>
