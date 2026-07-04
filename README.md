@@ -89,9 +89,9 @@
 
 <div align="center">
   
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=05Atharva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&count_private=true" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=05Atharva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&count_private=true" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=05Atharva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6&langs_count=6" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=05Atharva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6&langs_count=6" />
 
 </div>
 
@@ -107,11 +107,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/05Atharva/05Atharva/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/05Atharva/05Atharva/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/05Atharva/05Atharva/output/github-snake-dark.svg">
-</picture>
+<img alt="github-snake" src="https://raw.githubusercontent.com/05Atharva/05Atharva/output/github-snake-dark.svg" />
 
 </div>
 
