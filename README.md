@@ -1,8 +1,12 @@
-<div align="center">
-  
-![Banner](https://raw.githubusercontent.com/05Atharva/05Atharva/main/banner_new.png)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:64ffda&height=120&section=header&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=55&lines=Software+Engineer+%7C+AI+Systems+%7C+Full-Stack+%7C+Drones)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Hey+%F0%9F%91%8B+I'm+Atharva+Kanawade)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2500&pause=800&color=8892B0&center=true&vCenter=true&repeat=true&width=650&height=30&lines=Software+Engineer+%E2%80%A2+AI+Systems+%E2%80%A2+Full-Stack+%E2%80%A2+Mobile+Apps+%E2%80%A2+Drones;Building+production+systems+at+Applied+AI+Consulting;IEEE+Published+%E2%80%A2+CCNA+Certified+%E2%80%A2+World+Rank+3+Drone+Racing)](https://git.io/typing-svg)
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-64FFDA?style=for-the-badge&logo=vercel&logoColor=0a192f)](https://portfolio-pink-nine-82.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvakanawade)
@@ -12,13 +16,13 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=1&section=header" />
 
-Building production AI systems, full-stack apps, and racing drones. Currently a **Software Engineer Trainee at [Applied AI Consulting (AAIC)](https://www.appliedaicourse.com/)** — working on multi-agent AI workflows, LLM integrations, and backend systems. **ARTEMIS** published in **IEEE Xplore** at ICEI 2026, PICT Pune. **CCNA Certified**. World Rank 3 in drone racing.
+> Building production AI systems, full-stack apps, and racing drones. Currently a **Software Engineer Trainee at [Applied AI Consulting (AAIC)](https://www.appliedaicourse.com/)** — working on multi-agent AI workflows, LLM integrations, and backend systems. **ARTEMIS** published in **IEEE Xplore** at ICEI 2026. **CCNA Certified**. World Rank 3 in drone racing.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=1&section=header" />
 
-### 🛠️ Tech Stack
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
 
 <div align="center">
 
@@ -27,18 +31,18 @@ Building production AI systems, full-stack apps, and racing drones. Currently a 
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=1&section=header" />
 
-### 🚀 Featured Projects
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
 
 | Project | What it does | Stack |
 |:--------|:-------------|:------|
-| **[ARTEMIS](https://ieeexplore.ieee.org/document/11447964)** 🔥 | Full-spectrum cybersecurity platform — ML phishing detection, ESP32 wireless defense, AWS honeypots, WAF | Python, Flask, scikit-learn, AWS, ESP32 |
-| **[RagaStream](https://github.com/05Atharva)** 🎵 | Ad-free Indian music streaming app via yt-dlp — zero cloud storage cost | React Native, Supabase, Zustand, yt-dlp |
-| **[PRECURSOR](https://github.com/05Atharva)** 🧬 | Supply chain tracking for precursor chemicals — LSTM anomaly detection + blockchain | React Native, TensorFlow, IoT, Blockchain |
+| **[ARTEMIS](https://ieeexplore.ieee.org/document/11447964)** 🔥 | Full-spectrum cybersecurity — ML phishing detection, ESP32 wireless defense, AWS honeypots | Python, Flask, scikit-learn, AWS, ESP32 |
+| **[RagaStream](https://github.com/05Atharva)** 🎵 | Ad-free Indian music streaming via yt-dlp — zero cloud storage cost | React Native, Supabase, Zustand |
+| **[PRECURSOR](https://github.com/05Atharva)** 🧬 | Precursor chemical supply chain — LSTM anomaly detection + blockchain | React Native, TensorFlow, IoT |
 | **[PinNest](https://github.com/05Atharva)** 📌 | Priority task management with home screen widgets & efficiency dashboard | React Native, Supabase, Redux |
-| **[MatchSense](https://github.com/05Atharva)** 🏏 | Confidence-aware IPL match predictor — knows when to abstain | CatBoost, Python, Pandas |
-| **[ResponseForge](https://github.com/05Atharva)** 🛡️ | NIST SP 800-61 compliant incident response plan generator | React.js, JavaScript |
+| **[MatchSense](https://github.com/05Atharva)** 🏏 | Confidence-aware IPL predictor — knows when to abstain | CatBoost, Python, Pandas |
+| **[ResponseForge](https://github.com/05Atharva)** 🛡️ | NIST SP 800-61 incident response plan generator | React.js, JavaScript |
 
 <details>
 <summary><b>🔬 More Projects</b></summary>
@@ -47,16 +51,16 @@ Building production AI systems, full-stack apps, and racing drones. Currently a 
 | Project | What it does | Stack |
 |:--------|:-------------|:------|
 | **Cooking App** 🍳 | LLM-powered recipe intelligence — Firebase + Redux + AWS | React Native, LLM APIs, Firebase |
-| **Harvest-Health** 🌱 | CNN crop disease detection rover with IoT data pipeline & SMS alerts | TensorFlow, OpenCV, ESP32, Twilio |
-| **EdgeVision** 👁️ | TinyML electronic component classifier — 99% accuracy, TFLite ready | MobileNetV2, TensorFlow Lite |
-| **Auto QC Classifier** ⚡ | Factory-floor CV system for automated part inspection (.exe deployed) | MobileNetV2, OpenCV, Python |
-| **5" FPV Racing Drone** 🏎️ | Competitive FPV racing platform — SpeedyBee F405 V3 | Betaflight, BLDC, PID Tuning |
-| **3" FPV Racing Drone** 🚁 | Compact indoor FPV system — SpeedyBee Mini FC | Betaflight, PID Tuning |
+| **Harvest-Health** 🌱 | CNN crop disease detection rover with IoT pipeline & SMS alerts | TensorFlow, OpenCV, ESP32, Twilio |
+| **EdgeVision** 👁️ | TinyML electronic component classifier — 99% accuracy | MobileNetV2, TensorFlow Lite |
+| **Auto QC Classifier** ⚡ | Factory-floor CV system for automated part inspection (.exe) | MobileNetV2, OpenCV, Python |
+| **5" FPV Racing Drone** 🏎️ | Competitive FPV racing — SpeedyBee F405 V3 | Betaflight, BLDC, PID Tuning |
+| **3" FPV Racing Drone** 🚁 | Compact indoor FPV — SpeedyBee Mini FC | Betaflight, PID Tuning |
 | **Autonomous Quadcopter** 📡 | Waypoint-driven delivery UAV with custom telemetry | CrossFlight FC, Embedded |
 
 </details>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=1&section=header" />
 
 ### 🏆 Highlights
 
@@ -79,7 +83,7 @@ Building production AI systems, full-stack apps, and racing drones. Currently a 
 </tr>
 </table>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=1&section=header" />
 
 ### 📊 GitHub Stats
 
@@ -93,7 +97,31 @@ Building production AI systems, full-stack apps, and racing drones. Currently a 
 
 <div align="center">
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=05Atharva&theme=tokyonight&hide_border=true&background=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda)
+[![GitHub Streak](https://streak-stats.demolab.com?user=05Atharva&theme=tokyonight&hide_border=true&background=0A192F&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=64FFDA)](https://git.io/streak-stats)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=1&section=header" />
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/05Atharva/05Atharva/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/05Atharva/05Atharva/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/05Atharva/05Atharva/output/github-snake-dark.svg">
+</picture>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=1&section=header" />
+
+### 📈 Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=05Atharva&bg_color=0a192f&color=64ffda&line=64ffda&point=ccd6f6&area=true&area_color=112240&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -103,6 +131,8 @@ Building production AI systems, full-stack apps, and racing drones. Currently a 
 
 <img src="https://komarev.com/ghpvc/?username=05Atharva&label=Profile+Views&color=64ffda&style=flat-square" />
 
-*Building things that ship. Always.*
+*Building things that ship. Always.* 🚀
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:64ffda,50:112240,100:0a192f&height=100&section=footer&animation=fadeIn" />
