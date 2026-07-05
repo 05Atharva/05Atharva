@@ -64,11 +64,17 @@
 
 ### 🏆 Achievements
 
-📄 &ensp; [**ARTEMIS**](https://ieeexplore.ieee.org/document/11447964) published in **IEEE Xplore** — 3rd IEEE ICEI 2026, PICT Pune
-🌍 &ensp; **World Rank 3 & AIR 2** — Technoxian International Drone Racing 2025
-🥇 &ensp; **Winner** — Innovators Challenge 2k24 (National Hackathon) · **CTF Champion** — NigVanta'25
-🚀 &ensp; **Finalist** — Smart India Hackathon (SIH)
-🏅 &ensp; **CCNA** — Cisco &ensp;|&ensp; **Google Cybersecurity** — Coursera
+<div align="center">
+
+[![IEEE](https://img.shields.io/badge/IEEE_Published-ARTEMIS-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11447964)
+![Drone](https://img.shields.io/badge/World_Rank_3-Drone_Racing_2025-64ffda?style=flat-square)
+![CCNA](https://img.shields.io/badge/CCNA-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![CTF](https://img.shields.io/badge/CTF_Champion-NigVanta'25-E34234?style=flat-square)
+![Hackathon](https://img.shields.io/badge/Winner-Innovators_2k24-FFD700?style=flat-square)
+![SIH](https://img.shields.io/badge/Finalist-SIH-FF6B35?style=flat-square)
+![Google](https://img.shields.io/badge/Google_Cybersecurity-Certified-4285F4?style=flat-square&logo=google&logoColor=white)
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=1&section=header" />
 
