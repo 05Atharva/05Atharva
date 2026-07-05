@@ -62,26 +62,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=1&section=header" />
 
-### 🏆 Highlights
+### 🏆 Achievements
 
-<table>
-<tr>
-<td>📄 <b>ARTEMIS</b> published in IEEE Xplore — ICEI 2026, PICT Pune</td>
-<td>🌍 <b>World Rank 3 & AIR 2</b> — Technoxian Drone Racing 2025</td>
-</tr>
-<tr>
-<td>🏅 <b>CCNA Certified</b> — Cisco (May 2025)</td>
-<td>🏆 <b>CTF Champion</b> — NigVanta'25</td>
-</tr>
-<tr>
-<td>🥇 <b>Winner</b> — Innovators Challenge 2k24 (National Hackathon)</td>
-<td>🚀 <b>Finalist</b> — Smart India Hackathon (SIH)</td>
-</tr>
-<tr>
-<td>🔐 <b>Google Cybersecurity Certificate</b></td>
-<td>🏎️ <b>AI-ML Head</b> — Team Vajra UAV, MMCOE</td>
-</tr>
-</table>
+📄 &ensp; [**ARTEMIS**](https://ieeexplore.ieee.org/document/11447964) published in **IEEE Xplore** — 3rd IEEE ICEI 2026, PICT Pune
+🌍 &ensp; **World Rank 3 & AIR 2** — Technoxian International Drone Racing 2025
+🥇 &ensp; **Winner** — Innovators Challenge 2k24 (National Hackathon) · **CTF Champion** — NigVanta'25
+🚀 &ensp; **Finalist** — Smart India Hackathon (SIH)
+🏅 &ensp; **CCNA** — Cisco &ensp;|&ensp; **Google Cybersecurity** — Coursera
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=1&section=header" />
 
