@@ -25,3 +25,12 @@
 🏏 **[MatchSense](https://github.com/05Atharva/MatchSense)** studies what can be predicted before an IPL match and skips predictions when its CatBoost model has low confidence.
 
 🎧 **[RagaStream](https://github.com/05Atharva/RagaStream)** is a personal Android app for Indian music built with React Native, FastAPI, and Supabase.
+
+## 🐟 My Git Koi
+
+The languages I use color its markings, and my public GitHub activity changes how it swims. [How Git Koi works](https://github.com/yalongwastaken/git-koi)
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/koi/koi.png">
+  <img src="assets/koi/koi.gif" width="224" height="224" alt="Gold pixel-art koi with markings based on my public GitHub activity">
+</picture>
