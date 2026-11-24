@@ -1,22 +1,27 @@
-# Atharva Kanawade
+# 👋 I’m Atharva Kanawade
 
-**I write software for factory floors and build the FPV drones I race.**
+**I build software for factory floors and FPV drones for race day.**
 
-I’m a **Software Engineer at Golain** in Pune, India. I design tools around how shop-floor teams work and collect data.
+🏭 I’m a **Software Engineer at Golain** in Pune, India, building tools around how shop-floor teams work and collect data.
 
-[**Portfolio ↗**](https://www.atharvakanawade.dev/) · [Selected work ↓](#selected-work) · [LinkedIn](https://www.linkedin.com/in/atharvakanawade/) · [Email](mailto:atharvakanawade@gmail.com)
+🌐 **[Portfolio](https://www.atharvakanawade.dev/)** · 💼 [LinkedIn](https://www.linkedin.com/in/atharvakanawade/) · ✉️ [Email](mailto:atharvakanawade@gmail.com)
 
-![Flight Log. An FPV quadcopter flies over a radar display beside a heatmap of my GitHub contributions over the past year.](assets/flight-log.svg)
+## 🛠️ Featured builds
 
-## Selected work
+⚙️ **[ShopSync Edge](https://github.com/05Atharva/shopsync-edge)** turns Modbus signals from factory equipment into Shopify updates and live dashboard events. Go at the edge, MQTT for messaging, React for the dashboard.
 
-- **[ShopSync Edge](https://github.com/05Atharva/shopsync-edge)** connects factory equipment signals to Shopify and a live React dashboard using Go, Modbus, and MQTT.
-- **[MatchSense](https://github.com/05Atharva/MatchSense)** predicts IPL results before a match starts and sits out when the CatBoost model has too little confidence.
-- **[RagaStream](https://github.com/05Atharva/RagaStream)** is a personal Android app for Indian music, built with React Native, FastAPI, and Supabase.
-- **[ARTEMIS](https://github.com/05Atharva/ARTEMIS)** combines machine learning for phishing detection with wireless and cloud security monitoring. We presented it at ICEI 2026. [Read the IEEE paper](https://ieeexplore.ieee.org/document/11447964).
+[![ShopSync Edge signal flow. Modbus registers are polled by a Go collector, which publishes through MQTT. A Go backend updates Shopify and streams events to a React dashboard.](assets/shopsync-flow.svg)](https://github.com/05Atharva/shopsync-edge#architecture)
 
-## Beyond the repositories
+🏁 **[3-inch FPV racer](https://github.com/05Atharva/3inch-fpv-racing-drone)** is a compact quad I built with Team Vajra. We finished **3rd worldwide and 2nd in India** in FPV racing at [TechnoXian 2025](https://mmcoe.edu.in/departments/e-tc/student-achievements/). [Build photos](https://github.com/05Atharva/3inch-fpv-racing-drone/tree/main/media)
 
-At **Applied AI Consulting**, I worked on multi-agent AI workflows with LangGraph and production backends with FastAPI and PostgreSQL. I wrote tests for about 40 modules, bringing test coverage to 75%.
+<a href="https://github.com/05Atharva/3inch-fpv-racing-drone/tree/main/media"><img src="https://raw.githubusercontent.com/05Atharva/3inch-fpv-racing-drone/a84d5789c332bf48443aaa79c062899824c7d7e4/media/DSC_0147.JPG" width="380" alt="Two Team Vajra FPV racing quads on pavement, one with green accents and one with purple propellers"></a>
 
-At **Team Vajra**, I led AI and ML work on UAV projects and built FPV racing drones with the team. We placed **3rd worldwide and 2nd in India** in drone racing at TechnoXian 2025. [Competition results](https://mmcoe.edu.in/departments/e-tc/student-achievements/) · [3-inch FPV build](https://github.com/05Atharva/3inch-fpv-racing-drone)
+🔬 **[ARTEMIS](https://github.com/05Atharva/ARTEMIS)** combines ML-based phishing detection with wireless and cloud security monitoring. I co-authored the [IEEE paper](https://ieeexplore.ieee.org/document/11447964) for ICEI 2026.
+
+## More work
+
+🤖 At **Applied AI Consulting**, I worked on multi-agent workflows with LangGraph and production backends with FastAPI and PostgreSQL. I wrote tests for about 40 modules, bringing coverage to 75%.
+
+🏏 **[MatchSense](https://github.com/05Atharva/MatchSense)** studies what can be predicted before an IPL match and skips predictions when its CatBoost model has low confidence.
+
+🎧 **[RagaStream](https://github.com/05Atharva/RagaStream)** is a personal Android app for Indian music built with React Native, FastAPI, and Supabase.
