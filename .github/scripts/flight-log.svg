@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="191" viewBox="0 0 920 191" role="img" aria-labelledby="title description">
+  <title id="title">Flight Log</title>
+  <desc id="description">An FPV quadcopter on a radar display beside a year of GitHub contributions. $active_days active days through $through.</desc>
+  <defs>
+    <linearGradient id="panel" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#242119"/>
+      <stop offset=".56" stop-color="#191914"/>
+      <stop offset="1" stop-color="#181916"/>
+    </linearGradient>
+    <radialGradient id="radar">
+      <stop stop-color="#ebad63" stop-opacity=".17"/>
+      <stop offset="1" stop-color="#ebad63" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="8" height="8" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r=".65" fill="#ebad63" opacity=".22"/>
+    </pattern>
+  </defs>
+  <style>
+    text { font-family: 'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; }
+    .caption { fill: #bbbaae; font-size: 11px; }
+    .level-0 { fill: #34332a; }
+    .level-1 { fill: #82552c; }
+    .level-2 { fill: #b77838; }
+    .level-3 { fill: #ebad63; }
+    .level-4 { fill: #ffd8a5; }
+    @media (prefers-reduced-motion: no-preference) {
+      .orbit { transform-origin: 245px 95px; animation: flight 4.6s cubic-bezier(.53,.13,.4,.97); }
+      @keyframes flight { to { transform: rotate(360deg); } }
+    }
+  </style>
+
+  <rect x=".5" y=".5" width="919" height="190" rx="14" fill="url(#panel)" stroke="#64513a"/>
+  <path d="M14 25V14h11m870 0h11v11M14 166v11h11m870 0h11v-11" fill="none" stroke="#9b754d"/>
+  <path d="M326 18v154" stroke="#4a4131"/>
+
+  <rect x="30" y="26" width="26" height="26" rx="5" fill="#171713" stroke="#705638"/>
+  <path d="M12 45 23 19h3l8 19M17 35h14m6-16v26m0-12 12-14M37 33l14 12" transform="translate(29 25) scale(.44)" fill="none" stroke="#ebad63" stroke-width="4.5" stroke-linecap="square" stroke-linejoin="round"/>
+  <text x="30" y="86" fill="#f5efe3" font-weight="700" font-size="26" letter-spacing="-1">Flight Log</text>
+  <text x="30" y="139" fill="#ebad63" font-weight="700" font-size="31">$active_days</text>
+  <text class="caption" x="31" y="157" letter-spacing="1.2">ACTIVE DAYS</text>
+
+  <path d="M181 34h128v122H181z" fill="url(#dots)"/>
+  <circle cx="245" cy="95" r="54" fill="url(#radar)"/>
+  <g fill="none" stroke="#6c563d">
+    <circle cx="245" cy="95" r="53" stroke-dasharray="1 4"/>
+    <circle cx="245" cy="95" r="38"/>
+    <circle cx="245" cy="95" r="21" opacity=".65"/>
+    <path d="M185 95h120m-60-60v120" opacity=".54"/>
+    <path d="M240 95h10m-5-5v10" stroke="#ebad63"/>
+  </g>
+  <path d="M211 112a38 38 0 0 0 64-40" fill="none" stroke="#ebad63" opacity=".7"/>
+  <g class="orbit">
+    <g transform="translate(275 72) rotate(35)" fill="#242119" stroke="#ffd8a5" stroke-width="1.25" stroke-linejoin="round">
+      <path d="m-8-8 16 16m0-16-16 16" stroke-width="2.75"/>
+      <circle cx="-8" cy="-8" r="3.8"/>
+      <circle cx="8" cy="-8" r="3.8"/>
+      <circle cx="-8" cy="8" r="3.8"/>
+      <circle cx="8" cy="8" r="3.8"/>
+      <path d="m0-6 4 3v7l-4 2-4-2v-7z"/>
+      <path d="M-1-3h2" stroke="#99c6f4" stroke-linecap="round"/>
+    </g>
+  </g>
+  <path d="M193 133h4m-2-2v4m97-78h4m-2-2v4" fill="none" stroke="#99c6f4" opacity=".66"/>
+
+  <text x="350" y="38" fill="#f5efe3" font-weight="700" font-size="15">GitHub contributions</text>
+  <text class="caption" x="888" y="38" text-anchor="end">PAST YEAR</text>
+  <g class="caption">
+    $months
+  </g>
+  <g>
+    $cells
+  </g>
+
+  <path d="M350 154h538" stroke="#4a4131"/>
+  <text class="caption" x="350" y="172">THROUGH $through</text>
+  <g class="caption">
+    <text x="760" y="172">LESS</text>
+    <rect class="level-0" x="794" y="164" width="8" height="8" rx="2"/>
+    <rect class="level-1" x="806" y="164" width="8" height="8" rx="2"/>
+    <rect class="level-2" x="818" y="164" width="8" height="8" rx="2"/>
+    <rect class="level-3" x="830" y="164" width="8" height="8" rx="2"/>
+    <rect class="level-4" x="842" y="164" width="8" height="8" rx="2"/>
+    <text x="888" y="172" text-anchor="end">MORE</text>
+  </g>
+</svg>
